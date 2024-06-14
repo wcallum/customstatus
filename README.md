@@ -12,3 +12,15 @@ This Discord bot status changer is a simple JavaScript application that allows y
    npm install
    ```
 3. Add your token in secrets
+
+
+# How to make it custom?
+
+## Fork it.
+
+1. Fork this repository and give it what name you want, it doesnt matter.
+
+2. Go to index.js and search until you see cons.statusMessages
+
+3. In the "" enter what message you want.
+   Example: "Playing KingOfficer Bots"
