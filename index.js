@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Customize your bot's status by forking this."];
+const statusMessages = ["Delevering General Productions Moderation Support!"];
 
 
 let currentIndex = 0;
